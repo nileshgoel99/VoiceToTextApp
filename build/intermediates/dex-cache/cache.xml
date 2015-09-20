@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f26518582260e50cb807d37ca00e3c8f7cd0162e.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-7e70dcad2f05b41b4c7fef0cb660ea113845d4a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-69b3d8162ed9469fdec4dcdfb7daa6b2d28b652d.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-1047176c4cae66e6d760beccad479609b6d710a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-d4211d7c2fdf4da688112ebff44ca889431e9b83.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-1428da1419df6e1695cc1040fd94f366ecfa0c15.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-a4f359620e135d71c3ff8255ff079757898798c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\pre-dexed\debug\classes-18b66f158a3514887436101d529e67b156cf7d44.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-4eb8a2467b4666467c5500a28898d14fcc0b24f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-d08728b06ac842bdb017eede07472835aed2c225.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-7b13ff0c7882a38faf5e968fbd8966d4bcb18feb.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-cab015fd1cd88b0f94172b8dd249a5bcfb1e585d.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-80c8768c795f223138e498bd2ade93778048780b.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-ea931fd65f9bce2c7f19fdb045415b97262d4558.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\pre-dexed\debug\classes-153bcbbc3df092e94077345f5d07d8eb13c40974.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-e3d3391b24be8d63c99a8abd080d9ee9b5b263ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-9d4c2dbd325e261081f27daa0a56076deb231612.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e87139077138f66a55e1eeeee4b80575713fbe13.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\pre-dexed\debug\classes-66f4576104d30829e94569fbb7cc95639c496709.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\pre-dexed\debug\classes-ea96ef26578cd9b21c85b29e70d6a4c337a6a7aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-19cf541906fbd9d8d4b98b7f1c6d13d4b0d8845a.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a40b94bcbbd96aacd4fa2af822dce8f087475c01.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-ad157d02a8365e5fccf9a4f6b8f468f6008a39af.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-f3516eefd2adc7a2d90f7adb7d4b848ba692e908.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\wear\build\intermediates\pre-dexed\debug\classes-c33ae2fcdf86d8ef2abf3853ff2e28316390111a.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-644032063d3a357891984e9b83db6d6f444ff649.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-121deafc743225e3ff284462b668ec0dae591452.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-816c099124b24dd00f9027addab56a1a9e167b7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-85f9de832879343b32d9647dc9feb0b538c51dfe.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-f09d48fe52f8f36273ce7db9e1314143405633b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-1a214db0e74c0f822576e8bf925392d0b0f11664.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-4726270c62c5baf1daf0156c4d4bcedd81856867.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\cool\AndroidStudioProjects\FidHack\mobile\build\intermediates\pre-dexed\debug\classes-159745c9eaed7913a332e9555e89e120d27323e2.jar" />
+    </item>
+
+</items>
